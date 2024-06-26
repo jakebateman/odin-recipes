@@ -1,0 +1,30 @@
+* {
+    font-family: sans-serif;
+    text-decoration: none;
+    box-sizing: border-box; 
+}
+body {
+    background-color: whitesmoke;
+}
+a {
+    color: rgb(97, 97, 255);
+}
+.header {
+
+}
+.header .logo {
+    color: black;
+    font-weight: bold;
+    font-size: 30px;
+    height: 100%;
+}
+.header .button {
+    background-color: rgb(97, 97, 255);
+    padding: 12px;
+    text-align: center;
+    display: inline-block;
+    color: white;
+}
+.header .button a {
+    color: white;
+}
